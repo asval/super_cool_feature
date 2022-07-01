@@ -10,6 +10,9 @@ print a + b
 
 print(my_strinasg)
 
+for a in range(10):
+    print(a)
+
 my_string = 'Helaslo! My name is Alex'
 for l in myas_string:
     print(l)
